@@ -24,7 +24,7 @@ body{
 }
 
 .container{
-    border: 2px solid green;
+    /* border: 2px solid green; */
     padding: 0 100px;
     max-width: 1200px;
     margin: 0 auto;
