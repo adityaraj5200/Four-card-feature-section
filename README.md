@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution link](https://www.frontendmentor.io/solutions/four-card-feature-section-css-grid-RyP1BPD9NH)
-- Live Site URL: [Live link](adityaraj5200/Four-card-feature-section-master)
+- Live Site URL: [Live link](https://github.com/adityaraj5200/Four-card-feature-section)
 
 ### Built with
 
