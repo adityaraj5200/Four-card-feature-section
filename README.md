@@ -20,6 +20,13 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 This is a challenge done by me (Aditya Raj) on frontendmentor.io in which I had to make a four card section component.
 
+
+## Links
+
+- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/four-card-feature-section-css-grid-RyP1BPD9NH)
+- Live Site URL: [Live link](https://adityaraj5200-four-card-feature-section.netlify.app/)
+
+
 ### The challenge
 
 Users should be able to:
@@ -29,11 +36,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-
-### Links
-
-- Solution URL: [Solution link](https://www.frontendmentor.io/solutions/four-card-feature-section-css-grid-RyP1BPD9NH)
-- Live Site URL: [Live link](https://adityaraj5200-four-card-feature-section.netlify.app/)
 
 ### Built with
 
