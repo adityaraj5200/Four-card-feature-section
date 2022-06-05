@@ -24,7 +24,7 @@ body{
 }
 
 .container{
-    /* border: 2px solid red; */
+    border: 2px solid green;
     padding: 0 100px;
     max-width: 1200px;
     margin: 0 auto;
@@ -118,6 +118,10 @@ header p{
 @media only screen and (max-width: 768px){
     .main{
         grid-template-columns: 1fr;
+    }
+
+    .container{
+        padding: 0 15px;
     }
 }
 
